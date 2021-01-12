@@ -50,6 +50,7 @@ def run():
 
 hirst_turtle = Turtle()
 hirst_turtle.shape("turtle")
+hirst_turtle.hideturtle()
 screen = Screen()
 screen.colormode(255)
 screen.bgcolor("white")
